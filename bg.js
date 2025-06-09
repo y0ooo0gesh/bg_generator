@@ -8,4 +8,3 @@ function gradAlter() {
 }
 color1.addEventListener("input", gradAlter);
 color2.addEventListener("input", gradAlter);
-//Just adding a comment for git branch check Up
