@@ -1,5 +1,5 @@
 
-# * Hallooo anyone If you ever open this Repository
+# Hallooo anyone If you ever open this Repository
 
 * Well i m gonna just tell you what this do
 
