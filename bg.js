@@ -6,5 +6,5 @@ function gradAlter() {
   body.style.background = "linear-gradient(45deg," + color1.value + "," + color2.value + ")";
   css.textContent = body.style.background + ";";
 }
-c1.addEventListener("input", gradAlter);
-c2.addEventListener("input", gradAlter);
+color1.addEventListener("input", gradAlter);
+color2.addEventListener("input", gradAlter);
