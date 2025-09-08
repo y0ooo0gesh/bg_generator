@@ -1,8 +1,13 @@
 
-# Hallooo anyone If you ever open this Repository
+# Color Picker with Gradiant Background
 
-* Well i m gonna just tell you what this do
+## Features
+* Can pick color any color from the screen.
+* Provides the picked color HEX,HSL and RBG values which can be used in other locations.
 
-* This page uses gradient feature of css and just changes the color of the page both sides according to user input
+## Usage
+* Creates a BEAUTIFUL gradient background based on your choice color
 
-[And It is just simple as cutting butter with knife you can understand its working just by looking codes BY.BY.] 
+## Tech-Stack Used
+* HTML
+* CSS

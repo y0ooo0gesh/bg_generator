@@ -5,11 +5,15 @@ body {
   letter-spacing: .5em;
   min-height: 100vh;
   opacity: 65%;
-  background: linear-gradient(45deg, red, blue);
-}
+  background: 
+    linear-gradient(111deg, #fb12fb, transparent 70%),
+    linear-gradient(222deg, #b219e4, transparent 70%),
+    linear-gradient(333deg, #11efc3, transparent 70%)
+  }
 .container{
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   gap: 12px;
 }
